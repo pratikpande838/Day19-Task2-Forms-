@@ -1,0 +1,33 @@
+.head{
+    text-align:center;
+    color:blue;
+    font-size:40px
+      }
+  *{
+    font-size:15px
+  }
+  
+  .head1{
+    position:center;
+  }
+  .img{
+    position:top right;
+    width:200px;
+    height:400px;
+  }
+  body{
+    background:lightcyan;
+    
+  }
+  
+  
+  table,tr,th,td{
+    border:1px solid black;
+    padding:10px;
+    border-collapse:collapse;
+  }
+  
+  #par{
+    color:red;
+    font-size:20px;
+  }
